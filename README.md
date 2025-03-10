@@ -27,10 +27,10 @@ Modify the `feature_path` in `thumos/lib/opts.py`
 2. Download our training models
 ***
 ### **Core File**  
-\thumos\lib\model.py
-\anet\lib\model.py 
-pointnet_util.py
-train.py
+\thumos\lib\model.py 
+\anet\lib\model.py  
+pointnet_util.py 
+train.py 
 ***
    
 ### **How to train ?**  
