@@ -17,7 +17,7 @@ Temporal Action Proposal Generation (TAPG) is a critical step of video analysis 
 ### **How to use ?**    
 Just put these project's items in MCBD and you're ready to go.  
 1. Download the dataset  
-Download the annotations from [here](https://pan.baidu.com/s/1Z8SCuOemPDV3peKmA38j4g?pwd=e11W )   
+Download the annotations from [here](https://pan.baidu.com/s/1Lo7QwqZm5t_lKeA458GVpQ?pwd=5z75)   
 The folder structure should look like
 ```shell
 │
@@ -31,11 +31,11 @@ The folder structure should look like
 │   │   ├── thumos_annotations
 │   │   ├── annotations
 ```
-Download the extracted ActivityNet v1.3 TSP features from [here](https://drive.google.com/file/d/1VW8px1Nz9A17i0wMVUfxh6YsPCLVqL-S/view?usp=sharing)
+Download the extracted ActivityNet v1.3 TSP features from [here](https://pan.baidu.com/s/1ka59M1TxEoRnaMcDAB6OMw?pwd=gA16)
 
 Modify the `feat_dir` in `anet/config/config.yaml`
 
-Download the extracted THUMOS14 I3D features from [here](https://drive.google.com/file/d/1zt2eoldshf99vJMDuu8jqxda55dCyhZP/view?usp=sharing)
+Download the extracted THUMOS14 I3D features from [here](https://pan.baidu.com/s/1Z8SCuOemPDV3peKmA38j4g?pwd=e11W)
 
 Modify the `feature_path` in `thumos/lib/opts.py`  
 2. Download our training models
