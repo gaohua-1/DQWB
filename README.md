@@ -25,7 +25,6 @@ The folder structure should look like
 │   ├── data/
 │   │   ├── activitynet_annotations
 │   │   ├── annotations
-
 │   
 ├── thumos/
 │   ├── data/
