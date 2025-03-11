@@ -60,3 +60,6 @@ cd anet
 sh anet.sh
 ```
 ***
+### ** Acknowledgement** 
+
+This implementation is base on [BMN-Boundary-Matching-Network](https://github.com/JJBOY/BMN-Boundary-Matching-Network), [ActionDetection-DBG](https://github.com/Tencent/ActionDetection-DBG), [GTAD](https://github.com/frostinassiky/gtad), and [Multi-Level Content-Aware Boundary Detection-MCBD](https://mic.tongji.edu.cn).
