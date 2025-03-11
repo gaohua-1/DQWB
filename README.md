@@ -25,10 +25,14 @@ The folder structure should look like
 │   ├── data/
 │   │   ├── activitynet_annotations
 │   │   ├── annotations
-│
+│   │   ├──anet_training.pkl
+│   │   ├──anet_validation.pkl
+│   
 ├── thumos/
 │   ├── data/
 │   │   ├── thumos_annotations
+│   │   │   ├──saved.2048.train.nf128.sf4.num200.train.pkl
+│   │   │   ├──saved.2048.validation.nf128.sf4.num213.train.pkl
 │   │   ├── annotations
 ```
 Download the extracted ActivityNet v1.3 TSP features from [here](https://drive.google.com/file/d/1VW8px1Nz9A17i0wMVUfxh6YsPCLVqL-S/view?usp=sharing)
