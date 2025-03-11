@@ -28,7 +28,7 @@ You can also use this command
 pip install -r requirements.txt
 ```
 ***
-### **How to use ?**    
+## **How to use ?**    
 Just put these project's items in MCBD and you're ready to go.  
 
 ### 1. Download the dataset  
@@ -55,14 +55,14 @@ Download the extracted ActivityNet v1.3 TSP features from [here](https://pan.bai
 Modify the `feat_dir` in `anet/config/config.yaml`  
 ### 2. Download our training models
 ***
-### **Core File**  
+## **Core File**  
 \thumos\lib\model.py  
 \anet\lib\model.py  
 pointnet_util.py  
 train.py  
 ***
    
-### **How to train ?**  
+## **How to train ?**  
 THUMOS14 dataset
 ```python
 cd thumos
@@ -74,6 +74,6 @@ cd anet
 sh anet.sh
 ```
 ***
-### **Acknowledgement** 
+## **Acknowledgement** 
 
 This implementation is base on [BMN-Boundary-Matching-Network](https://github.com/JJBOY/BMN-Boundary-Matching-Network), [ActionDetection-DBG](https://github.com/Tencent/ActionDetection-DBG), [GTAD](https://github.com/frostinassiky/gtad), and [Multi-Level Content-Aware Boundary Detection-MCBD](https://mic.tongji.edu.cn).
