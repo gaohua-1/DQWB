@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## **How to use ?**    
 Just put these project's items in MCBD and you're ready to go.  
 
-### 1. Download the dataset  
+#### 1. Download the dataset  
 Download the annotations from [here](https://pan.baidu.com/s/1Lo7QwqZm5t_lKeA458GVpQ?pwd=5z75)   
 The folder structure should look like
 ```shell
@@ -53,7 +53,7 @@ Modify the `feature_path` in `thumos/lib/opts.py`
 Download the extracted ActivityNet v1.3 TSP features from [here](https://pan.baidu.com/s/1ka59M1TxEoRnaMcDAB6OMw?pwd=gA16)
 
 Modify the `feat_dir` in `anet/config/config.yaml`  
-### 2. Download our training models
+#### 2. Download our training models
 ***
 ## **Core File**  
 \thumos\lib\model.py  
