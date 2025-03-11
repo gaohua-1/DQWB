@@ -53,7 +53,7 @@ THUMOS14 dataset
 cd thumos
 sh thomus.sh
 ```
-.ActivityNet v1. dataset
+ActivityNet v1. dataset
 ```python
 cd anet
 sh anet.sh
