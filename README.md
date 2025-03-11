@@ -37,7 +37,7 @@ Modify the `feat_dir` in `anet/config/config.yaml`
 
 Download the extracted THUMOS14 I3D features from [here](https://drive.google.com/file/d/1zt2eoldshf99vJMDuu8jqxda55dCyhZP/view?usp=sharing)
 
-Modify the `feature_path` in `thumos/lib/opts.py`
+Modify the `feature_path` in `thumos/lib/opts.py`  
 2. Download our training models
 ***
 ### **Core File**  
