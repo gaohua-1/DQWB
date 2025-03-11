@@ -17,8 +17,7 @@ Temporal Action Proposal Generation (TAPG) is a critical step of video analysis 
 ### **How to use ?**    
 Just put these project's items in MCBD and you're ready to go.  
 1. Download the dataset  
-Download the annotations from [here](https://pan.baidu.com/s/1Z8SCuOemPDV3peKmA38j4g?pwd=e11W ) 
-提取码：e11W 
+Download the annotations from [here](https://pan.baidu.com/s/1Z8SCuOemPDV3peKmA38j4g?pwd=e11W )   
 The folder structure should look like
 ```shell
 │
