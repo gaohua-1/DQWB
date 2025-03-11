@@ -15,6 +15,28 @@ Temporal Action Proposal Generation (TAPG) is a critical step of video analysis 
 ***
 .<div align=center>![fig3](https://github.com/user-attachments/assets/b661400e-bea5-43ca-83b5-67e16f448174)</div> 
 ***
+## **Requirements**  
+```python
+matplotlib>=3.2.2
+numpy>=1.18.5,<1.24.0
+opencv-python>=4.1.1
+Pillow>=7.1.2
+PyYAML>=5.3.1
+requests>=2.23.0
+scipy>=1.4.1
+torch>=1.7.1,!=1.12.0
+torchvision>=0.8.2,!=0.13.0
+tqdm>=4.41.0
+protobuf<4.21.3
+Tensorboard
+kornia==0.4.1
+sklearn
+```  
+You can also use this command  
+```python
+pip install -r requirements.txt
+```
+***
 ### **How to use ?**    
 Just put these project's items in MCBD and you're ready to go.  
 1. Download the dataset  
